@@ -49,5 +49,5 @@ for _, string in data {
 	acc2 += IsNice2(string)
 }
 
-msgbox, % "The amoung of nice strings are: " acc1
-msgbox, % "The amoung of nice strings are: " acc2
+msgbox, % "The amount of nice strings are: " acc1
+msgbox, % "The amount of nice strings are: " acc2
